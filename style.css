@@ -17,7 +17,8 @@ body{
        header start
   ======================= */
 header{
-  background-image: url(image/Banner\ 2.svg);
+  background-image: url(image/Banner\ 1.svg);
+  width: 100%;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
